@@ -1,0 +1,6 @@
+{
+  "name": "SafeQuest - Child Safety Game",
+  "description": "Personalized child abuse prevention and safety educational game for ages 6–9 with 4 age tracks, 20 levels, voice narration, and parent reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
